@@ -1,4 +1,4 @@
-# Merkle Tree for NFT Whitelist (JavaScript)
+# Merkle Tree Script for NFT Whitelist (JavaScript)
 
 This is based on this article: https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9
 
